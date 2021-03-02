@@ -1,4 +1,4 @@
-var key = '75ca5b836a8b636e1cd9075ffb7b7574'
+var key = ':)'
 var apiStuff = 'http://api.openweathermap.org/data/2.5/weather?q='
 var endUrl = ''
 var request = new XMLHttpRequest()
